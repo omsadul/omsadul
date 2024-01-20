@@ -23,6 +23,6 @@ Welcome to my Data Science journey! This repository serves as a portfolio of my 
 
 ## Blog
 
-I also share my data science journey, insights, and tutorials on my [BLOG](https://hashnode.com/@omsadul). Some recent posts include:
+I also share my data science journey, insights, and tutorials on my [BLOG](https://hashnode.com/@omsadul).
 
 
